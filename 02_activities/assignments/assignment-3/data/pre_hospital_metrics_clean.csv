@@ -1,0 +1,37 @@
+metric,year,value,value_label,unit
+Emergency Request for Service,2014,270430.0,"270,430",Number
+Emergency Request for Service,2015,277887.0,"277,887",Number
+Emergency Request for Service,2016,295548.0,"295,548",Number
+Emergency Request for Service,2017,304313.0,"304,313",Number
+Emergency Request for Service,2018,325140.0,"325,140",Number
+Emergency Request for Service,2019,330546.0,"330,546",Number
+Emergency Request for Service,2020,296957.0,"296,957",Number
+Emergency Request for Service,2021,318757.0,"318,757",Number
+Emergency Request for Service,2022,320325.0,"320,325",Number
+Emergency Request for Service,2023,332131.0,"332,131",Number
+Emergency Request for Service,2024,349937.0,"349,937",Number
+Emergency Request for Service,2025,363381.0,"363,381",Number
+Emergency Transport Records,2014,199258.0,"199,258",Number
+Emergency Transport Records,2015,203077.0,"203,077",Number
+Emergency Transport Records,2016,213604.0,"213,604",Number
+Emergency Transport Records,2017,216010.0,"216,010",Number
+Emergency Transport Records,2018,226124.0,"226,124",Number
+Emergency Transport Records,2019,225792.0,"225,792",Number
+Emergency Transport Records,2020,194014.0,"194,014",Number
+Emergency Transport Records,2021,207653.0,"207,653",Number
+Emergency Transport Records,2022,217120.0,"217,120",Number
+Emergency Transport Records,2023,226711.0,"226,711",Number
+Emergency Transport Records,2024,233139.0,"233,139",Number
+Emergency Transport Records,2025,238037.0,"238,037",Number
+Arrival to Life Threatening Calls 90% of Time,2014,12.283333333333333,12:17,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2015,11.833333333333334,11:50,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2016,11.5,11:30,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2017,11.416666666666666,11:25,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2018,11.716666666666667,11:43,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2019,12.15,12:09,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2020,12.133333333333333,12:08,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2021,13.0,13:00,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2022,14.166666666666666,14:10,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2023,14.0,14:00,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2024,13.65,13:39,Minutes:Seconds
+Arrival to Life Threatening Calls 90% of Time,2025,14.8,14:48,Minutes:Seconds
